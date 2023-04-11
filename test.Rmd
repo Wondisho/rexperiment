@@ -5,9 +5,10 @@ output:
 #  word_document: default
 #  html_document: default
 ---
-
+The document could be produced using either pdf, word or html by allowing any one as shown above
 This is the first R MarkDown Document we created at CGC under the guidance of Jeff
-The document is used to create document with R Code
+
+April 8 UPDATED
 
 # Section 1
 
